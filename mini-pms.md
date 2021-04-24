@@ -12,6 +12,7 @@
         - app폴더가 생김(그 안에 src폴더랑 build.gradle 있음)
         - settings.gradle에 include('app')가 추가되었음
         - build.gradle plugins에 java가 없음, 그래서 임의로 추가했음
+        - jcenter에서 mavenCentral로 바뀜
 - [~/mini-pms]$ gradle build
 - [~/mini-pms]$ tree
 
